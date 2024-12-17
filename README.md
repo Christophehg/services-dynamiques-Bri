@@ -9,7 +9,7 @@ Programmeurs Java professionnels qui développent divers services comme :
 Non-programmeurs amateurs, qui utilisent ces services sans expertise technique.
 
 Objectif principal :
-Familiariser les participants avec les bases de plateformes complexes comme OSGi en mettant l'accent sur l'interaction entre créateurs de services et utilisateurs.
+- Familiariser les participants avec les bases de plateformes complexes comme OSGi en mettant l'accent sur l'interaction entre créateurs de services et utilisateurs.
 
 Détails importants :
 - Non-programmeurs (amateurs) : Ils représentent les utilisateurs finaux des services, sans compétences techniques avancées.
