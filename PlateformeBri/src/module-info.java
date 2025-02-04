@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module PlateformeBri {
+	exports bri;
+}
